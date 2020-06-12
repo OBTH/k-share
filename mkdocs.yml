@@ -1,0 +1,31 @@
+site_name: K-Share
+site_description: Let's promote knowledge share
+repo_name: OBTH/k-share
+repo_url: https://github.com/OBTH/k-share
+theme:
+  name: material
+  features:
+    - tabs
+  palette:
+    primary: black
+    accent: blue
+  icon:
+    logo: fontawesome/solid/brain
+    repo: fontawesome/brands/github
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - toc:
+      permalink: true
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+nav:
+  - Home:
+    - Home: index.md

@@ -40,11 +40,6 @@ jobs:
       - name: Build docs
         run: mkdocs build
       
-      - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

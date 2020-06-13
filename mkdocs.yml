@@ -2,6 +2,7 @@ site_name: K-Share
 site_description: Let's promote knowledge share
 repo_name: OBTH/k-share
 repo_url: https://github.com/OBTH/k-share
+edit_uri: ""
 theme:
   name: material
   features:

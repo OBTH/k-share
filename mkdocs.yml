@@ -10,6 +10,9 @@ theme:
   palette:
     primary: black
     accent: blue
+  font:
+    text: Roboto
+    code: Roboto Mono
   icon:
     logo: fontawesome/solid/brain
     repo: fontawesome/brands/github

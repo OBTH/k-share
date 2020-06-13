@@ -1,8 +1,13 @@
+# Project information
 site_name: K-Share
 site_description: Let's promote knowledge share
+
+# Repository
 repo_name: OBTH/k-share
 repo_url: https://github.com/OBTH/k-share
 edit_uri: ""
+
+# Configuration
 theme:
   name: material
   features:
@@ -16,9 +21,13 @@ theme:
   icon:
     logo: fontawesome/solid/brain
     repo: fontawesome/brands/github
+
+# Plugins
 plugins:
   - search
   - awesome-pages
+
+# Extensions
 markdown_extensions:
   - admonition
   - codehilite:
@@ -29,5 +38,7 @@ markdown_extensions:
   - pymdownx.tasklist
   - toc:
       permalink: true
+
+# Customization
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML

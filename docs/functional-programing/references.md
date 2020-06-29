@@ -2,6 +2,7 @@
 
 ## Articles
 
+* [A Glossary of Functional Programming](https://degoes.net/articles/fp-glossary)
 * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 * [A monad is just a monoid in the category of endofunctors, what's the problem?](https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem)
 * [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
@@ -11,6 +12,8 @@
 * [Reading Configuration with Kleisli Arrows](https://blog.ssanj.net/posts/2017-06-12-reading-configuration-with-kleisli-arrows.html)
 * [Reader & Constructor-based Dependency Injection - friend or foe?](https://softwaremill.com/reader-monad-constructor-dependency-injection-friend-or-foe/)
 * [Using types to unit-test in Haskell](https://lexi-lambda.github.io/blog/2016/10/03/using-types-to-unit-test-in-haskell/)
+* [Destroy All Ifs — A Perspective from Functional Programming](https://degoes.net/articles/destroy-all-ifs)
+* [herding cats](http://eed3si9n.com/herding-cats/)
 
 ## Books
 

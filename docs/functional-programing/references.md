@@ -8,6 +8,7 @@
 * [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 * [Understanding Functor and Monad With a Bag of Peanuts](https://medium.com/beingprofessional/understanding-functor-and-monad-with-a-bag-of-peanuts-8fa702b3f69e)
 * [A Fistful of Monads](http://learnyouahaskell.com/a-fistful-of-monads)
+* [Monad Laws](https://mmhaskell.com/monads/laws)
 * [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 * [Reading Configuration with Kleisli Arrows](https://blog.ssanj.net/posts/2017-06-12-reading-configuration-with-kleisli-arrows.html)
 * [Reader & Constructor-based Dependency Injection - friend or foe?](https://softwaremill.com/reader-monad-constructor-dependency-injection-friend-or-foe/)

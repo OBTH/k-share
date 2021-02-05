@@ -1,5 +1,9 @@
 # References
 
+## Articles
+
+* [On Recursion, Continuations and Trampolines](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
+
 ## Courses
 
 * [CS50's AP Computer Science Principles](https://www.edx.org/course/cs50s-apr-computer-science-principles-harvardx-cs50-ap)
